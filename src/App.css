@@ -1,0 +1,40 @@
+.main {
+  display: flex;
+  margin: 20px;
+}
+
+.m-20 {
+  margin: 20px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.p-20-10 {
+  padding: 20px 10px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.label-overflow {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.box {
+  border: 1px solid black;
+}
+
+.pagination {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+}
